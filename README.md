@@ -5,9 +5,9 @@ Desenvolvimento dos arquivos de configurações para front-end, back-end e teste
 
 ## :wrench: Tecnologias utilizadas
 
-<img alt="DOCKER" align="left" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"/>
-
-![Docker](intro.gif)
+<img alt="DOCKER" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"/>
 
 ## :handshake: Colaboradores
-A aplicação desenvolvida pela [Trybe](https://www.betrybe.com/).
+Aplicação desenvolvida pela [Trybe](https://www.betrybe.com/).
+
+![Docker](intro.gif)
